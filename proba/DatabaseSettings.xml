@@ -3,5 +3,5 @@
   <ServerVersion>Sql2016</ServerVersion>
   <ServerName>RAZVOJ02</ServerName>
   <DatabaseName>DW</DatabaseName>
-  <DatabaseInformation Version="1" />
+  <DatabaseInformation Version="2" />
 </DatabaseSettings>
