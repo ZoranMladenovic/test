@@ -1,0 +1,13 @@
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[SSIS_EKOJ] (
+		[IDOrgJed]     [nvarchar](10) COLLATE SQL_Croatian_CP1250_CI_AS NULL,
+		[IDParent]     [nvarchar](10) COLLATE SQL_Croatian_CP1250_CI_AS NULL,
+		[uvid]         [nvarchar](1000) COLLATE SQL_Croatian_CP1250_CI_AS NULL,
+		[Naziv]        [nvarchar](1000) COLLATE SQL_Croatian_CP1250_CI_AS NULL
+)
+GO
+ALTER TABLE [dbo].[SSIS_EKOJ] SET (LOCK_ESCALATION = TABLE)
+GO

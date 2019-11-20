@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>SQL_Croatian_CP1250_CI_AS</Collation>
+  <ServerVersion>Sql2016</ServerVersion>
+  <ServerName>RAZVOJ02</ServerName>
+  <DatabaseName>DW</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
